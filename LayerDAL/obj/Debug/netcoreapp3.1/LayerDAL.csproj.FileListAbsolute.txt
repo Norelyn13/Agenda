@@ -1,0 +1,13 @@
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerDAL\bin\Debug\netcoreapp3.1\LayerDAL.deps.json
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerDAL\bin\Debug\netcoreapp3.1\LayerDAL.dll
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerDAL\bin\Debug\netcoreapp3.1\LayerDAL.pdb
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerDAL\bin\Debug\netcoreapp3.1\LayerEntity.dll
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerDAL\bin\Debug\netcoreapp3.1\LayerEntity.pdb
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerDAL\obj\Debug\netcoreapp3.1\LayerDAL.csproj.AssemblyReference.cache
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerDAL\obj\Debug\netcoreapp3.1\LayerDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerDAL\obj\Debug\netcoreapp3.1\LayerDAL.AssemblyInfoInputs.cache
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerDAL\obj\Debug\netcoreapp3.1\LayerDAL.AssemblyInfo.cs
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerDAL\obj\Debug\netcoreapp3.1\LayerDAL.csproj.CoreCompileInputs.cache
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerDAL\obj\Debug\netcoreapp3.1\LayerDAL.csproj.CopyComplete
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerDAL\obj\Debug\netcoreapp3.1\LayerDAL.dll
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerDAL\obj\Debug\netcoreapp3.1\LayerDAL.pdb

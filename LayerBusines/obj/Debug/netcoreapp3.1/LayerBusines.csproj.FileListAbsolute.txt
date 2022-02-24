@@ -1,0 +1,15 @@
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerBusines\bin\Debug\netcoreapp3.1\LayerBusines.deps.json
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerBusines\bin\Debug\netcoreapp3.1\LayerBusines.dll
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerBusines\bin\Debug\netcoreapp3.1\LayerBusines.pdb
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerBusines\bin\Debug\netcoreapp3.1\LayerDAL.dll
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerBusines\bin\Debug\netcoreapp3.1\LayerEntity.dll
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerBusines\bin\Debug\netcoreapp3.1\LayerDAL.pdb
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerBusines\bin\Debug\netcoreapp3.1\LayerEntity.pdb
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerBusines\obj\Debug\netcoreapp3.1\LayerBusines.csproj.AssemblyReference.cache
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerBusines\obj\Debug\netcoreapp3.1\LayerBusines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerBusines\obj\Debug\netcoreapp3.1\LayerBusines.AssemblyInfoInputs.cache
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerBusines\obj\Debug\netcoreapp3.1\LayerBusines.AssemblyInfo.cs
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerBusines\obj\Debug\netcoreapp3.1\LayerBusines.csproj.CoreCompileInputs.cache
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerBusines\obj\Debug\netcoreapp3.1\LayerBusines.csproj.CopyComplete
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerBusines\obj\Debug\netcoreapp3.1\LayerBusines.dll
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerBusines\obj\Debug\netcoreapp3.1\LayerBusines.pdb

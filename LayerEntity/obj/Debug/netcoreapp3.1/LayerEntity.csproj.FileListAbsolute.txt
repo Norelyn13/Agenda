@@ -1,0 +1,10 @@
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerEntity\bin\Debug\netcoreapp3.1\LayerEntity.deps.json
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerEntity\bin\Debug\netcoreapp3.1\LayerEntity.dll
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerEntity\bin\Debug\netcoreapp3.1\LayerEntity.pdb
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerEntity\obj\Debug\netcoreapp3.1\LayerEntity.csproj.AssemblyReference.cache
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerEntity\obj\Debug\netcoreapp3.1\LayerEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerEntity\obj\Debug\netcoreapp3.1\LayerEntity.AssemblyInfoInputs.cache
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerEntity\obj\Debug\netcoreapp3.1\LayerEntity.AssemblyInfo.cs
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerEntity\obj\Debug\netcoreapp3.1\LayerEntity.csproj.CoreCompileInputs.cache
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerEntity\obj\Debug\netcoreapp3.1\LayerEntity.dll
+C:\Users\Franklyn\source\repos\First_Crud.net\LayerEntity\obj\Debug\netcoreapp3.1\LayerEntity.pdb
