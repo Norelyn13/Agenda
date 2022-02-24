@@ -153,7 +153,7 @@ namespace PresentantionLayer
             // 
             // btnGuardar
             // 
-            this.btnGuardar.Location = new System.Drawing.Point(263, 348);
+            this.btnGuardar.Location = new System.Drawing.Point(280, 348);
             this.btnGuardar.Name = "btnGuardar";
             this.btnGuardar.Size = new System.Drawing.Size(112, 34);
             this.btnGuardar.TabIndex = 12;
